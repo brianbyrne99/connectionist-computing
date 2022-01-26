@@ -1,0 +1,204 @@
+
+
+Max Epoch
+___________________________:5000 MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:5000
+Learning rate:1
+Before Training Analysis[0 0]Expected: [0]	Output: [0.74808725]
+[0 1]Expected: [1]	Output: [0.79171527]
+[1 0]Expected: [1]	Output: [0.78448111]
+[1 1]Expected: [0]	Output: [0.81926514]
+Training the Perceptron
+Number of Epochs: 250	Error Rate: 0.4514268611903469
+Number of Epochs: 500	Error Rate: 0.18827555600959892
+Number of Epochs: 750	Error Rate: 0.10675912762282587
+Number of Epochs: 1000	Error Rate: 0.080072694623431
+Number of Epochs: 1250	Error Rate: 0.06604870959919862
+Number of Epochs: 1500	Error Rate: 0.05708943299317488
+Number of Epochs: 1750	Error Rate: 0.050725901772235356
+Number of Epochs: 2000	Error Rate: 0.04589703152690677
+Number of Epochs: 2250	Error Rate: 0.04206676904361582
+Number of Epochs: 2500	Error Rate: 0.0389336442249108
+Number of Epochs: 2750	Error Rate: 0.03631383344513832
+Number of Epochs: 3000	Error Rate: 0.034087410737094814
+Number of Epochs: 3250	Error Rate: 0.032171447379263585
+Number of Epochs: 3500	Error Rate: 0.03050576895309288
+Number of Epochs: 3750	Error Rate: 0.029045054636341064
+Number of Epochs: 4000	Error Rate: 0.027754227469905888
+Number of Epochs: 4250	Error Rate: 0.026605604166378895
+Number of Epochs: 4500	Error Rate: 0.025577023962178484
+Number of Epochs: 4750	Error Rate: 0.024650552621552566
+Number of Epochs: 5000	Error Rate: 0.023811546249361364
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.02537236]
+[0 1]Expected: [1]	Output: [0.97648267]
+[1 0]Expected: [1]	Output: [0.97607409]
+[1 1]Expected: [0]	Output: [0.0224178]
+MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:5000
+Learning rate:0.75
+Before Training Analysis[0 0]Expected: [0]	Output: [0.70353385]
+[0 1]Expected: [1]	Output: [0.76595564]
+[1 0]Expected: [1]	Output: [0.7509969]
+[1 1]Expected: [0]	Output: [0.79751755]
+Training the Perceptron
+Number of Epochs: 250	Error Rate: 0.4704311244549707
+Number of Epochs: 500	Error Rate: 0.34063834412196137
+Number of Epochs: 750	Error Rate: 0.16122373992251543
+Number of Epochs: 1000	Error Rate: 0.10708318888003485
+Number of Epochs: 1250	Error Rate: 0.0846170005153937
+Number of Epochs: 1500	Error Rate: 0.07178351800172758
+Number of Epochs: 1750	Error Rate: 0.06324851587625
+Number of Epochs: 2000	Error Rate: 0.05705116133073958
+Number of Epochs: 2250	Error Rate: 0.05228659791209145
+Number of Epochs: 2500	Error Rate: 0.04847346658798175
+Number of Epochs: 2750	Error Rate: 0.04532945584034172
+Number of Epochs: 3000	Error Rate: 0.042676788173414845
+Number of Epochs: 3250	Error Rate: 0.04039729537447985
+Number of Epochs: 3500	Error Rate: 0.03840903613664248
+Number of Epochs: 3750	Error Rate: 0.03665323314310212
+Number of Epochs: 4000	Error Rate: 0.03508654687713342
+Number of Epochs: 4250	Error Rate: 0.03367628490593941
+Number of Epochs: 4500	Error Rate: 0.0323973100516134
+Number of Epochs: 4750	Error Rate: 0.031229974880996995
+Number of Epochs: 5000	Error Rate: 0.030158699687981603
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.0331545]
+[0 1]Expected: [1]	Output: [0.96955465]
+[1 0]Expected: [1]	Output: [0.97090897]
+[1 1]Expected: [0]	Output: [0.02792749]
+MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:5000
+Learning rate:0.5
+Before Training Analysis[0 0]Expected: [0]	Output: [0.58863177]
+[0 1]Expected: [1]	Output: [0.61690799]
+[1 0]Expected: [1]	Output: [0.59858976]
+[1 1]Expected: [0]	Output: [0.62550289]
+Training the Perceptron
+Number of Epochs: 250	Error Rate: 0.49992880345960644
+Number of Epochs: 500	Error Rate: 0.4995312890146968
+Number of Epochs: 750	Error Rate: 0.49223174997412866
+Number of Epochs: 1000	Error Rate: 0.4215431443969392
+Number of Epochs: 1250	Error Rate: 0.29216605690029895
+Number of Epochs: 1500	Error Rate: 0.17444026880344057
+Number of Epochs: 1750	Error Rate: 0.1264373000761103
+Number of Epochs: 2000	Error Rate: 0.10251893050132042
+Number of Epochs: 2250	Error Rate: 0.08801062760812553
+Number of Epochs: 2500	Error Rate: 0.0781197689871854
+Number of Epochs: 2750	Error Rate: 0.07085779569812499
+Number of Epochs: 3000	Error Rate: 0.06524889544090817
+Number of Epochs: 3250	Error Rate: 0.06075512340034372
+Number of Epochs: 3500	Error Rate: 0.05705380794397542
+Number of Epochs: 3750	Error Rate: 0.053938665525271774
+Number of Epochs: 4000	Error Rate: 0.05127109263466532
+Number of Epochs: 4250	Error Rate: 0.048954172077150145
+Number of Epochs: 4500	Error Rate: 0.046917885881738924
+Number of Epochs: 4750	Error Rate: 0.04511025338664984
+Number of Epochs: 5000	Error Rate: 0.04349178524834163
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.06214507]
+[0 1]Expected: [1]	Output: [0.9592869]
+[1 0]Expected: [1]	Output: [0.95525295]
+[1 1]Expected: [0]	Output: [0.02633737]
+
+
+Max Epoch
+___________________________:10000 MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:10000
+Learning rate:1
+Before Training Analysis[0 0]Expected: [0]	Output: [0.74789938]
+[0 1]Expected: [1]	Output: [0.8051846]
+[1 0]Expected: [1]	Output: [0.78295102]
+[1 1]Expected: [0]	Output: [0.83099831]
+Training the Perceptron
+Number of Epochs: 500	Error Rate: 0.20178211149017644
+Number of Epochs: 1000	Error Rate: 0.08528967984606911
+Number of Epochs: 1500	Error Rate: 0.06169673739305912
+Number of Epochs: 2000	Error Rate: 0.050464996851513066
+Number of Epochs: 2500	Error Rate: 0.043607304329644485
+Number of Epochs: 3000	Error Rate: 0.03887119415089453
+Number of Epochs: 3500	Error Rate: 0.035347785666008706
+Number of Epochs: 4000	Error Rate: 0.0325921735056873
+Number of Epochs: 4500	Error Rate: 0.030358050884689645
+Number of Epochs: 5000	Error Rate: 0.028496843449627253
+Number of Epochs: 5500	Error Rate: 0.026913066250529097
+Number of Epochs: 6000	Error Rate: 0.02554228513250678
+Number of Epochs: 6500	Error Rate: 0.024339299761883777
+Number of Epochs: 7000	Error Rate: 0.023271382369322458
+Number of Epochs: 7500	Error Rate: 0.02231420109521846
+Number of Epochs: 8000	Error Rate: 0.021449253754627938
+Number of Epochs: 8500	Error Rate: 0.020662193305045137
+Number of Epochs: 9000	Error Rate: 0.01994170159063903
+Number of Epochs: 9500	Error Rate: 0.019278712084956275
+Number of Epochs: 10000	Error Rate: 0.01866586146495424
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.02921052]
+[0 1]Expected: [1]	Output: [0.98109777]
+[1 0]Expected: [1]	Output: [0.98137398]
+[1 1]Expected: [0]	Output: [0.00791995]
+MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:10000
+Learning rate:0.75
+Before Training Analysis[0 0]Expected: [0]	Output: [0.73289827]
+[0 1]Expected: [1]	Output: [0.74779831]
+[1 0]Expected: [1]	Output: [0.7968201]
+[1 1]Expected: [0]	Output: [0.80744411]
+Training the Perceptron
+Number of Epochs: 500	Error Rate: 0.39145678204441475
+Number of Epochs: 1000	Error Rate: 0.12284618572103931
+Number of Epochs: 1500	Error Rate: 0.07665338351914523
+Number of Epochs: 2000	Error Rate: 0.059985365386553434
+Number of Epochs: 2500	Error Rate: 0.05083442245867184
+Number of Epochs: 3000	Error Rate: 0.04486504793479939
+Number of Epochs: 3500	Error Rate: 0.04058368242443145
+Number of Epochs: 4000	Error Rate: 0.03732243912953336
+Number of Epochs: 4500	Error Rate: 0.0347325473955008
+Number of Epochs: 5000	Error Rate: 0.03261195004322066
+Number of Epochs: 5500	Error Rate: 0.03083450403381348
+Number of Epochs: 6000	Error Rate: 0.02931688241830334
+Number of Epochs: 6500	Error Rate: 0.028001550404832577
+Number of Epochs: 7000	Error Rate: 0.02684734024159411
+Number of Epochs: 7500	Error Rate: 0.02582391815305401
+Number of Epochs: 8000	Error Rate: 0.024908376967096423
+Number of Epochs: 8500	Error Rate: 0.0240830525301233
+Number of Epochs: 9000	Error Rate: 0.023334076418982656
+Number of Epochs: 9500	Error Rate: 0.022650388549277683
+Number of Epochs: 10000	Error Rate: 0.022023046444774007
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.03084593]
+[0 1]Expected: [1]	Output: [0.97908205]
+[1 0]Expected: [1]	Output: [0.97757353]
+[1 1]Expected: [0]	Output: [0.01389702]
+MLP structure for XOR : #inputs:2   #Hidden Units:4   #Outputs:1
+Maximum number of Epochs:10000
+Learning rate:0.5
+Before Training Analysis[0 0]Expected: [0]	Output: [0.70063641]
+[0 1]Expected: [1]	Output: [0.70914611]
+[1 0]Expected: [1]	Output: [0.73814809]
+[1 1]Expected: [0]	Output: [0.74441033]
+Training the Perceptron
+Number of Epochs: 500	Error Rate: 0.49885485699188525
+Number of Epochs: 1000	Error Rate: 0.3974122688572934
+Number of Epochs: 1500	Error Rate: 0.1719780210716852
+Number of Epochs: 2000	Error Rate: 0.10094822947791272
+Number of Epochs: 2500	Error Rate: 0.07723406970138935
+Number of Epochs: 3000	Error Rate: 0.06472984828108705
+Number of Epochs: 3500	Error Rate: 0.05675478521626865
+Number of Epochs: 4000	Error Rate: 0.051116133396278976
+Number of Epochs: 4500	Error Rate: 0.04686323303386367
+Number of Epochs: 5000	Error Rate: 0.04351016246805058
+Number of Epochs: 5500	Error Rate: 0.04077979422725834
+Number of Epochs: 6000	Error Rate: 0.0385011886183414
+Number of Epochs: 6500	Error Rate: 0.03656249731525144
+Number of Epochs: 7000	Error Rate: 0.0348870870032217
+Number of Epochs: 7500	Error Rate: 0.03342047438817529
+Number of Epochs: 8000	Error Rate: 0.03212273030370639
+Number of Epochs: 8500	Error Rate: 0.03096384002538052
+Number of Epochs: 9000	Error Rate: 0.029920750622430967
+Number of Epochs: 9500	Error Rate: 0.0289754256887367
+Number of Epochs: 10000	Error Rate: 0.028113525176854223
+Testing the Perceptron
+[0 0]Expected: [0]	Output: [0.03832157]
+[0 1]Expected: [1]	Output: [0.97322151]
+[1 0]Expected: [1]	Output: [0.97156877]
+[1 1]Expected: [0]	Output: [0.01891622]
